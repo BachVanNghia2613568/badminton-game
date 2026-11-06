@@ -1,2 +1,2 @@
-# badmintin-game
+# badminton-game
 my first badminton game
